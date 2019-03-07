@@ -1,0 +1,23 @@
+body {
+	background-color: black;
+}
+
+h2{
+	color:white;
+	text-align: center;
+	font-family: Cursive;
+}
+h1{
+	color:white;
+	text-align: center;
+	font-family: Cursive;
+}
+
+img{
+
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
