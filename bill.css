@@ -22,7 +22,7 @@ img{
   
 }
 .rainbow{
-		animation: rainbow 1.5s linear;
+		animation: rainbow 2.5s linear;
 		animation-iteration-count: infinite;
 }
 
